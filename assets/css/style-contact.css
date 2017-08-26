@@ -98,7 +98,7 @@ body {
 	color: #4aaaa5;
 	font-size: 200%;
 	font-weight: bold;
-	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-family:'Georgia', Times, Times New Roman, serif;
 }
 
 #main-content {
@@ -112,7 +112,6 @@ body {
 	width: 200px;
 	height: 150px;
 	float: left;
-	align-content: left;
 	margin: 0px 10px 0px 0px;
 	background-color: black;
 }
